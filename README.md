@@ -5,6 +5,7 @@ while you progress. Defeat all the bosses to win!
 
 ## Accomplishments
 AI enemies and bosses <br />
+UI <br />
 Unique abilities <br />
 Animations <br />
 Music / Scenery <br />
