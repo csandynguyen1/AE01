@@ -7,7 +7,7 @@ while you progress. Defeat all the bosses to win!
 AI enemies and bosses <br />
 Unique abilities <br />
 Animations <br />
-Music / scenery <br />
+Music / Scenery <br />
 
 #### Packs
 ElvGames
