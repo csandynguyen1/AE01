@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 38e40f0b2283c4016a092e6daea0d23e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireballPrefab: {fileID: 2113652517412813035, guid: 6fa7801f3d6042c4cbac051fa0b3aebd, type: 3}
+  - rockPrefab: {fileID: 1012042366484892905, guid: 8563858dc9c4e724dad691ba37f34db6, type: 3}
+  - waterSplashPrefab: {fileID: 6727765331035193984, guid: 97293f63a5abd864b9e87dff2898b9e9, type: 3}
+  - lightningBoltPrefab: {instanceID: 0}
+  - spellSpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
